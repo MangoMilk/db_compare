@@ -1,0 +1,8 @@
+config.yaml
+go.mod
+go.sum
+
+logs/*
+
+db_compare
+
